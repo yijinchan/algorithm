@@ -1,4 +1,4 @@
-package DFS.subset;
+package DFS.Subset;
 
 import java.util.Scanner;
 

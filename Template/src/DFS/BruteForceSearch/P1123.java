@@ -1,4 +1,4 @@
-package DFS;
+package DFS.BruteForceSearch;
 
 import java.util.*;
 

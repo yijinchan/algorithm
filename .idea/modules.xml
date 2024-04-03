@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Written/Written.iml" filepath="$PROJECT_DIR$/Written/Written.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
     </modules>
   </component>
